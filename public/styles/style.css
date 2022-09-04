@@ -1,0 +1,12 @@
+h1{
+    color: red;
+}
+h2{
+    color: blue;
+}
+table thead tr td{
+    color: green;
+}
+table{
+    border: 1px solid goldenrod;
+}
